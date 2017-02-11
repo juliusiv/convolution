@@ -1,0 +1,21 @@
+{
+  "name": "convolution",
+  "version": "0.0.1",
+  "description": "Interactive convolution.",
+  "scripts": {
+    "build": "gulp elm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/JuliusAlexanderIV/convolution"
+  },
+  "keywords": [
+    "convolution"
+  ],
+  "author": "Julius Alexander IV",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-elm": "^0.6.1"
+  }
+}
